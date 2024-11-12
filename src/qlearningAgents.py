@@ -202,6 +202,7 @@ class ApproximateQAgent(PacmanQAgent):
           where * is the dotProduct operator
         """
         "*** YOUR CODE HERE ***"
+
         util.raiseNotDefined()
 
     def update(self, state, action, nextState, reward):
